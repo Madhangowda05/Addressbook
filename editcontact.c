@@ -1,9 +1,3 @@
-/*
-
-
-
-
-*/
 
 #include <addressBook.h>
 
