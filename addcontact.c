@@ -1,13 +1,3 @@
-
-/*
-function to create a new contact in the file given
-
-called from main.c
-
-input  - void
-return - int 
-*/
-
 #include <addressBook.h>
 
 int add_contact(char * fpc)
